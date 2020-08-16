@@ -4,5 +4,7 @@ arrayOfFunctions.c - Program to create an array of functions. Those functions ar
     
 mathematicalPrefixPostfix.c - Program to calculate a mathematical expression in pre-fix and post-fix notation.
 
+hexaToDecimalAscending.c hexaToDecimalDescending.c - Program should take an array of Hexadecimal values (mostly integers/numbers), operation code. Return another array of integers. Opcode: Ascending Order, Descending Order
+
 
     
