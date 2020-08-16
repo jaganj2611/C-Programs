@@ -42,7 +42,7 @@ int main()
 {
 	int inputarray[] = {0xf,0xe,0xd,0x3,0x6,0xa};
 	int length = sizeof(inputarray) / sizeof(inputarray[0]);
-    int *array=ascend(inputarray,length);
-    printf("\nArray Sorted in Ascending Order: %d %d %d %d %d %d ",array[0],array[1],array[2],array[3],array[4],array[5]);
+        int *array=ascend(inputarray,length);
+        printf("\nArray Sorted in Ascending Order: %d %d %d %d %d %d ",array[0],array[1],array[2],array[3],array[4],array[5]);
 	return 0;
 }
